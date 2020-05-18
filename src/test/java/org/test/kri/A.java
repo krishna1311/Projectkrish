@@ -8,6 +8,7 @@ public class A {
 	private void test1() {
 		
 		System.out.println("test");
+		System.out.println("krish");
 
 	}
 }
