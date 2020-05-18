@@ -9,6 +9,7 @@ public class A {
 		
 		System.out.println("test");
 		System.out.println("krish");
+		System.out.println("updated");
 
 	}
 }
